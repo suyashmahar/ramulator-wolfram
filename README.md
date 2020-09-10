@@ -1,5 +1,5 @@
-# Ramulator-WLAD
-Ramulator-WLAD is the implementation of WLAD by modifying the functionality of ramulator. Files relevant to the modifications are:
+# Ramulator-Wolfram
+Ramulator-Wolfram is the implementation of WLAD by modifying the functionality of ramulator. Files relevant to the modifications are:
 1. `src/PCM.h`
 2. `src/PCM.cpp`
 3. `src/Controller.h`
