@@ -1,14 +1,16 @@
-# Ramulator-Wolfram
-Ramulator-Wolfram is the implementation of WLAD by modifying the functionality of ramulator. Files relevant to the modifications are:
+# Ramulator-WoLFRaM
+Ramulator-WoLFRaM modifies Ramulator to implement WoLFRaM, the following were changed/added:
 1. `src/PCM.h`
 2. `src/PCM.cpp`
 3. `src/Controller.h`
 4. `src/Refresh.h`
 5. `src/Request.h`
 
-## WLAD Implementation notes:
-1. This version of ramulator can only simulate the PCM type memories. 
+## WoLFRaM Implementation notes:
+1. This version of ramulator can only simulate PCM type memories. 
 2. Configuration used for simulating performance and energy are provided in the `configs/` directory
+
+----
 
 Ramulator is a fast and cycle-accurate DRAM simulator \[1\] that supports a
 wide array of commercial, as well as academic, DRAM standards:
